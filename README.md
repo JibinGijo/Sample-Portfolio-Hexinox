@@ -42,7 +42,7 @@ All the content you need to change is located primarily in `index.html` and `css
     *   In the `<section id="home">`, update the brief intro paragraph.
     *   In the `<footer>` section, update the copyright text with your name and the current year.
 *   **About Me Section**:
-    *   Replace the placeholder image in `<div class="about-image">` with your own profile picture. You can link to an online image or place your image in a folder (e.g., `img/your-photo.jpg`) and update the `src` path.
+    *   Replace the placeholder image in `<div class="about-image">` with your own profile picture. You can link to an online image or place your image in a folder (e.g., `/assets/images/image1.jpeg`) and update the `src` path.
     *   Update the paragraphs in `<div class="about-text">` with your personal bio.
     *   Modify the `skills` section to reflect your own skills and adjust the `width` percentage in `style="width: X%"` for each `skill-level` to match your proficiency.
 *   **Projects Section**:
