@@ -1,0 +1,6 @@
+body {
+  background-image: url('/assets/images/images.jpeg'); /* Update the path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
